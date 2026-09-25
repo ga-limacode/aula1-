@@ -1,4 +1,6 @@
- printf("Frequência: ");
+#include <stdio.h>
+
+printf("Frequência: ");
     scanf("%f", &freq);
 
     soma = n1+n2;
